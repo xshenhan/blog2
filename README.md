@@ -7,3 +7,7 @@ Welcome to my blog! Let me introduce myself to you\~
 
 - Site
   - This is my homepage: **<https://xshenhan.github.io>**
+
+<!-- .slide vertical=true -->
+
+ ### Happy everyday!
