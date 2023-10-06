@@ -10,4 +10,4 @@ Welcome to my blog! Let me introduce myself to you\~
 
 <!-- .slide vertical=true -->
 
- ### Happy everyday!
+**Happy everyday!**
